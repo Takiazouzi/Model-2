@@ -1,2 +1,3 @@
 ipkernel 
-openCV
+opencv-python
+pyqt5 lxml
