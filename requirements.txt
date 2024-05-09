@@ -1,3 +1,0 @@
-ipkernel 
-opencv-python
-pyqt5 lxml
