@@ -1,0 +1,2 @@
+Version: 1.5.2
+Arguments: ['C:\\hostedtoolcache\\windows\\Python\\3.11.9\\x86\\Scripts\\delvewheel', 'repair', '-v', '--wheel-dir=C:\\Users\\runneradmin\\AppData\\Local\\Temp\\cibw-run-h499o5gk\\cp39-win32\\repaired_wheel', 'C:\\Users\\runneradmin\\AppData\\Local\\Temp\\cibw-run-h499o5gk\\cp39-win32\\built_wheel\\pyzmq-26.0.3-cp39-cp39-win32.whl']
